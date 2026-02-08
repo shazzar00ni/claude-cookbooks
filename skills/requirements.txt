@@ -24,3 +24,4 @@ tabulate>=0.9.0                          # Pretty-print tables in notebooks
 # Development tools (optional but recommended)
 ipywidgets>=8.0.0                        # Interactive widgets for notebooks
 nbformat>=5.9.0                          # Notebook format validation
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
